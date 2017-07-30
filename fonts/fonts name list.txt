@@ -1,0 +1,3 @@
+1. Pacifico- logo
+2. Bebas- menu
+3. HelveticaNeue Medium-slider text, service text, footer
